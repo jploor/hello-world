@@ -5,4 +5,6 @@ Here you will find idea development, resource management, and general stuff that
 Git vs. GitHub
 
 Git = version control system
-GitHub =
+GitHub = git repository hosting service
+
+
