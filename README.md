@@ -6,5 +6,3 @@ Git vs. GitHub
 
 Git = version control system
 GitHub = git repository hosting service
-
-
